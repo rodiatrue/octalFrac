@@ -1,4 +1,2 @@
-.idea/modules.xml
-.idea/octalfrac.iml
-.idea/vcs.xml
-.idea/workspace.xml
+.idea/
+vendor/
