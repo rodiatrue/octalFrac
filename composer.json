@@ -1,0 +1,22 @@
+{
+  "name": "utility/octalfrac",
+  "description": "Package to convert octal fractions to decimal fracions",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Utility Team",
+      "email": "cesar.jaldin@trueforce.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^4.8.14"
+  },
+  "autoload": {
+    "psr-4": {
+      "Utility\\OctalFrac\\": "src/Utility/OctalFrac"
+    }
+  }
+}
